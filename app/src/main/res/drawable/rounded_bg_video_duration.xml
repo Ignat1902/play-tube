@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/md_theme_secondaryContainer" /> <!-- Замените на ваш цвет -->
+
+    <!-- Скругленные углы -->
+    <corners android:radius="8dp" /> <!-- Радиус скругления -->
+
+    <!-- Опционально: Добавление отступов -->
+    <padding
+        android:bottom="4dp"
+        android:left="8dp"
+        android:right="8dp"
+        android:top="4dp" />
+
+</shape>
