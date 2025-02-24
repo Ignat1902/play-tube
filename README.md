@@ -7,6 +7,9 @@
 ## 📱 Скриншоты приложения
 
 ![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-45%20(2).jpg)
+![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-44%20(2).jpg)
+![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-44.jpg)
+![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-45.jpg)
 
 ---
 
