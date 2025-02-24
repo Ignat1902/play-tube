@@ -6,12 +6,7 @@
 
 ## 📱 Скриншоты приложения
 
-<div align="center">
-  <img src="[screenshots/photo_2025-02-24_23-26-45(2).jpeg](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-44%20(2).jpg)" alt="Список видео" width="200"/>
-  <img src="screenshots/photo_2025-02-24_23-26-44(2).jpeg" alt="Обновление списка видео" width="200"/>
-  <img src="screenshots/photo_2025-02-24_23-26-44.jpeg" alt="Портретный режим видео" width="200"/>
-  <img src="screenshots/photo_2025-02-24_23-26-45.jpeg" alt="Пейзажный режим видео" width="200"/>
-</div>
+![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-45%20(2).jpg)
 
 ---
 
