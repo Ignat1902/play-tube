@@ -4,7 +4,7 @@
 
 ---
 
-##Скриншоты приложения
+## Скриншоты приложения
 
 ![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-45%20(2).jpg)
 ![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-44%20(2).jpg)
@@ -13,7 +13,7 @@
 
 ---
 
-##Примечания
+## Примечания
 
 - в качестве API использовался pixabay.com
 - для работы приложения нужно использовать VPN, т.к API без него не работает
