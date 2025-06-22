@@ -1,31 +1,28 @@
-# Тестовое задание в VK на позицию Android-разработчик
+# Приложение для просмотра видео
 
-Этот репозиторий содержит решение тестового задания, которое демонстрирует навыки работы Android SDK, архитектурой приложения, а также умение работать с API и медиа-контентом.
+Этот репозиторий содержит исходный код приложения для просмотра видео с Pixabay.com. Данное приложение является демонстрационным.
 
----
+## Использованный стек технологий:
 
+- **Kotlin**
+- **Coroutines**
+- **Glide**
+- **Retrofit**
+- **Dagger2**
+  
 ## Скриншоты приложения
 
-![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-45%20(2).jpg)
-![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-44%20(2).jpg)
-![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-44.jpg)
-![alt text](https://github.com/Ignat1902/TestTaskVK/blob/master/screenshots/photo_2025-02-24_23-26-45.jpg)
+- ### Главный экран со списком видео
+    <img src="screenshots/main_screen.jpg" alt="Main screen" height="500"/>
+    <img src="screenshots/loading.jpg" alt="Loading state" height="500"/>
+    <img src="screenshots/network_error.jpg" alt="Network error" height="500"/>
 
----
+- ### Экран видеоплеера
+    <img src="screenshots/portrait_orientation.jpg" alt="Video player portrait orientation" height="500"/>
+    <img src="screenshots/landscape_orientation.jpg" alt="Video player landscape orientation" width = "700"/>
 
 ## Примечания
-
+- приложение поддерживает светлую и темную темы
 - в качестве API использовался pixabay.com
 - для работы приложения нужно использовать VPN, т.к API без него не работает
 - функция shuffled() имитирует обновление списка при свайпе вниз
-   
----
-
-## Используемые технологии
-
-- Kotlin
-- Retrofit
-- Glide
-- Dagger2
-
----
